@@ -1,6 +1,6 @@
 # Jumper
 
-Simple hopity jump `Dialog` for selecting alpha numeric for you android pleasure
+Simple hopity jump `Dialog` for selecting alphanumeric indexes options for you android pleasure
 
 ## usage
 
