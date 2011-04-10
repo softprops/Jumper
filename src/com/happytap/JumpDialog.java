@@ -101,7 +101,6 @@ public class JumpDialog extends Dialog {
 
       if (i % cols == 0) {
         row = new TableRow(getContext());
-        row.setBackgroundColor(Color.YELLOW);
         row.setGravity(Gravity.TOP);
       }
 
